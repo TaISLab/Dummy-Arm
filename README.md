@@ -8,3 +8,7 @@ If you are interested in the SolidWorks or .stp files, please contact jesus.gome
 
 <img src="https://github.com/TaISLab/dummyarm/blob/master/Screenshot%202021-02-17%20at%2018.12.24.png">
 
+## Funding
+
+This work is part of the project PID2021-127221OB-I00, funded by MICIU/AEI/10.13039/501100011033/FEDER, UE
+
