@@ -1,4 +1,4 @@
-# dummyarm
+# Modular and sensorized dummy-arm
 
 Desing of a sensorized dummy arm for human-robot interaction experiments.
 The system icnludes a 3D printed arm with 10k linear rotary potentiometers and a DAQ based on a Arduino Mega which provides joint values at a rate of 100 Hz.
